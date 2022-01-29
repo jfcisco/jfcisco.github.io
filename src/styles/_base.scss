@@ -1,0 +1,24 @@
+@use "vars" as *;
+
+
+:root {
+    box-sizing: border-box;
+}
+
+* {
+    box-sizing: inherit;
+}
+
+body {
+    font-family: $font-stack;
+    font-size: 1.15rem;
+}
+
+a {
+    color: rgb(29, 72, 190);
+    text-decoration: none;
+
+    &:hover {
+        text-decoration: underline;
+    }
+}

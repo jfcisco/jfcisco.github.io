@@ -18,6 +18,10 @@
   },
   "homepage": "https://github.com/jfcisco/jfcisco.github.io#readme",
   "devDependencies": {
+    "@parcel/transformer-sass": "^2.2.1",
     "browser-sync": "^2.24.6"
+  },
+  "dependencies": {
+    "parcel": "^2.2.1"
   }
 }

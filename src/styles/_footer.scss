@@ -1,0 +1,10 @@
+#contact-details {
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-evenly;
+    padding: 0;
+
+    & li {
+        list-style-type: none;
+    }
+}

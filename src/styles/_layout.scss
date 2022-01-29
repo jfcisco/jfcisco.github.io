@@ -1,0 +1,9 @@
+header, main, footer {
+    max-width: 960px;
+    margin: 0 auto;
+}
+
+// Add some spacing between dl items
+dd + dt {
+    padding-top: 1.5rem;
+}

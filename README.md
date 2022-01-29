@@ -1,6 +1,19 @@
 # jfcisco.github.io
-My web dev journey in one HTML document.
+My personal website and software developer portfolio.
 
+## Plan
+- Resume
+1. Showcase my professional experience so far
+    1. Company and role
+    2. Educational background
+2. Technologies that I am familiar with
+    1. .NET and C#
+    2. HTML, CSS, JavaScript
+
+- Personal Blog (coming soon)
+3. Technologies I want to learn
+3. Posts
+4. Personal projects
 
 ## Installation
 To copy the environment I developed this project, follow these steps:
